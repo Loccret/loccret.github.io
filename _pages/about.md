@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! My name is Xueyuan Li, but I often go by "Yukihara" which share same kanji with my first name. I am a PhD candidate in the Department of Information Science and Electronic Engineering at Kyushu University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
+I enjoy working with foundational ideas about intelligence, which currently center on self-organization and local learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Scaling has pushed the frontier of AI, producing increasingly capable models. But scale is only one aspect of intelligence. How a system’s components interact may also play a crucial role.
+
+Gradient-based learning only can follow a favorable direction using information available in its current state, without explicitly predicting future outcomes. Through evolution, life has produced systems that can anticipate possible futures, favor some outcomes over others, and act to influence what happens. Such systems may even accept moving against the gradient temporarily to achieve a better outcome later. The emergence of coordinated structures and behavior through interactions within a system is central to self-organization.
+
+It makes me wonder: might the interactions between units (e.g., neurons, agents, or systems) be more important than the intelligence of each individual unit?
+
